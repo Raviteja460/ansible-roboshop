@@ -1,5 +1,5 @@
 - name: mongodb
-  hosts: mongodb.daws474.online
+  hosts: mongodb.devops474.online
   become: yes
   tasks:
     - name: copy mongodb repo
